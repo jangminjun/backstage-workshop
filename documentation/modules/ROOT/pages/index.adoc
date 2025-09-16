@@ -1,6 +1,6 @@
 = Backstage Workshop 
 :page-layout: home
-
+ 
 [#introduction]
 == An Internal Developer Platform (IDP)
 
